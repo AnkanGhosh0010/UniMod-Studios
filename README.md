@@ -6,7 +6,7 @@ The site showcases the company's expertise in **digital marketing**, **graphic d
 ---
 
 ## 🌐 Live Demo
-*[(Add your live link here if deployed, e.g., GitHub Pages, Netlify, or Vercel)](https://unimodstudios.netlify.app/)*
+*[(UniMod Studios)](https://unimodstudios.netlify.app/)*
 
 ---
 
